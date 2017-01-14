@@ -37,19 +37,17 @@ describe 'Performance Horizon Test Exercise' do
     homePage.select_tab_four
     tab_5_title = homePage.select_tab_five
     # Part Two
-    tabPage = TabPage.new(@driver)
+    tabPage = homePage.visit_tabPage
     homePage.open_demo
     tabPage.visit_tabs_page
     # Part Three
     # Select Registration Form
-    tabPage.visit_registration_page
-    registration = RegistrationPage.new(@driver)
+    registration = tabPage.visit_registration_page
     registration.enter_first_name(tab_3_title)
     registration.enter_last_name(tab_5_title)
     registration.select(marital_status)
     registration.select(sports)
     registration.select_country(country)
-
 
     #Validation of the Test
     expect(registration.fetch_current_page_title).to eq(title_data)

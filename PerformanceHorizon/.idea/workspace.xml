@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="924f7d7f-61d2-4178-bf47-649b67e60f11" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PerformanceHorizon.iml" afterPath="$PROJECT_DIR$/.idea/PerformanceHorizon.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-test/browser/browser_manager.rb" afterPath="$PROJECT_DIR$/web-test/browser/browser_manager.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-test/pages/home_page.rb" afterPath="$PROJECT_DIR$/web-test/pages/home_page.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-test/pages/registration_page.rb" afterPath="$PROJECT_DIR$/web-test/pages/registration_page.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-test/pages/tab_page.rb" afterPath="$PROJECT_DIR$/web-test/pages/tab_page.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-test/tests/demoqa_spec.rb" afterPath="$PROJECT_DIR$/web-test/tests/demoqa_spec.rb" />
     </list>
@@ -21,9 +18,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PerformanceHorizon@My_behaviour__PerformanceHorizon.coverage" NAME="My behaviour: PerformanceHorizon Coverage Results" MODIFIED="1484391269928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-test" MODULE_NAME="PerformanceHorizon" />
-    <SUITE FILE_PATH="coverage/PerformanceHorizon@Performance_Horizon_Test_Exercise_should_validate_various_actions_on_demoqa__PerformanceHorizon.coverage" NAME="Performance Horizon Test Exercise should validate various actions on demoqa: PerformanceHorizon Coverage Results" MODIFIED="1484406433408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-test/tests" MODULE_NAME="PerformanceHorizon" />
     <SUITE FILE_PATH="coverage/PerformanceHorizon@All_features_in_PerformanceHorizon__PerformanceHorizon.coverage" NAME="All features in PerformanceHorizon: PerformanceHorizon Coverage Results" MODIFIED="1484406911867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." MODULE_NAME="PerformanceHorizon" />
-    <SUITE FILE_PATH="coverage/PerformanceHorizon@Performance_Horizon_Test_Exercise__PerformanceHorizon.coverage" NAME="Performance Horizon Test Exercise: PerformanceHorizon Coverage Results" MODIFIED="1484407296402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-test/tests" MODULE_NAME="PerformanceHorizon" />
+    <SUITE FILE_PATH="coverage/PerformanceHorizon@Performance_Horizon_Test_Exercise_should_validate_various_actions_on_demoqa__PerformanceHorizon.coverage" NAME="Performance Horizon Test Exercise should validate various actions on demoqa: PerformanceHorizon Coverage Results" MODIFIED="1484409461195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-test/tests" MODULE_NAME="PerformanceHorizon" />
+    <SUITE FILE_PATH="coverage/PerformanceHorizon@Performance_Horizon_Test_Exercise__PerformanceHorizon.coverage" NAME="Performance Horizon Test Exercise: PerformanceHorizon Coverage Results" MODIFIED="1484409696145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-test/tests" MODULE_NAME="PerformanceHorizon" />
     <SUITE FILE_PATH="coverage/PerformanceHorizon@Run_spec__demoqa_spec___PerformanceHorizon.coverage" NAME="Run spec 'demoqa_spec': PerformanceHorizon Coverage Results" MODIFIED="1484401932185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-test/tests" MODULE_NAME="PerformanceHorizon" />
     <SUITE FILE_PATH="coverage/PerformanceHorizon@My_behaviour_should_do_something__PerformanceHorizon.coverage" NAME="My behaviour should do something: PerformanceHorizon Coverage Results" MODIFIED="1484390517879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-test/tests" MODULE_NAME="PerformanceHorizon" />
   </component>
@@ -39,8 +36,8 @@
       <file leaf-file-name="demoqa_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web-test/tests/demoqa_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="44">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -89,8 +86,8 @@
       <file leaf-file-name="home_page.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-test/pages/home_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+            <state relative-caret-position="289">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -99,8 +96,8 @@
       <file leaf-file-name="tab_page.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-test/pages/tab_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="220">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -127,9 +124,9 @@
         <option value="$PROJECT_DIR$/web-test/pages/base_page.rb" />
         <option value="$PROJECT_DIR$/drivers/custom_path.rb" />
         <option value="$PROJECT_DIR$/web-test/pages/registration_page.rb" />
-        <option value="$PROJECT_DIR$/web-test/pages/home_page.rb" />
-        <option value="$PROJECT_DIR$/web-test/pages/tab_page.rb" />
         <option value="$PROJECT_DIR$/web-test/browser/browser_manager.rb" />
+        <option value="$PROJECT_DIR$/web-test/pages/tab_page.rb" />
+        <option value="$PROJECT_DIR$/web-test/pages/home_page.rb" />
         <option value="$PROJECT_DIR$/web-test/tests/demoqa_spec.rb" />
       </list>
     </option>
@@ -621,8 +618,8 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="RSpec.Performance Horizon Test Exercise: PerformanceHorizon" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber.All features in PerformanceHorizon: PerformanceHorizon" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.Performance Horizon Test Exercise should validate various actions on demoqa: PerformanceHorizon" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.Performance Horizon Test Exercise should validate various actions on demoqa: PerformanceHorizon" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.All features in PerformanceHorizon: PerformanceHorizon" />
         <item index="3" class="java.lang.String" itemvalue="RSpec.Run spec 'demoqa_spec': PerformanceHorizon" />
         <item index="4" class="java.lang.String" itemvalue="RSpec.My behaviour: PerformanceHorizon" />
       </list>
@@ -638,7 +635,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484389272228</updated>
-      <workItem from="1484389274669" duration="15604000" />
+      <workItem from="1484389274669" duration="16867000" />
     </task>
     <servers />
   </component>
@@ -658,24 +655,24 @@
     <history-entry file="Performance_Horizon_Test_Exercise__PerformanceHorizon - 2017.01.14 at 15h 24m 13s.xml">
       <configuration name="Performance Horizon Test Exercise: PerformanceHorizon" configurationId="RSpecRunConfigurationType" />
     </history-entry>
+    <history-entry file="Performance_Horizon_Test_Exercise__PerformanceHorizon - 2017.01.14 at 16h 01m 51s.xml">
+      <configuration name="Performance Horizon Test Exercise: PerformanceHorizon" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
     <history-entry file="Performance_Horizon_Test_Exercise_should_validate_various_actions_on_demoqa__PerformanceHorizon - 2017.01.14 at 15h 07m 32s.xml">
       <configuration name="Performance Horizon Test Exercise should validate various actions on demoqa: PerformanceHorizon" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'demoqa_spec'__PerformanceHorizon - 2017.01.14 at 13h 44m 49s.xml">
-      <configuration name="Run spec 'demoqa_spec': PerformanceHorizon" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Performance_Horizon_Test_Exercise_should_validate_various_actions_on_demoqa__PerformanceHorizon - 2017.01.14 at 15h 56m 55s.xml">
+      <configuration name="Performance Horizon Test Exercise should validate various actions on demoqa: PerformanceHorizon" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'demoqa_spec'__PerformanceHorizon - 2017.01.14 at 13h 46m 43s.xml">
-      <configuration name="Run spec 'demoqa_spec': PerformanceHorizon" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'demoqa_spec'__PerformanceHorizon - 2017.01.14 at 13h 46m 59s.xml">
-      <configuration name="Run spec 'demoqa_spec': PerformanceHorizon" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Performance_Horizon_Test_Exercise_should_validate_various_actions_on_demoqa__PerformanceHorizon - 2017.01.14 at 15h 57m 54s.xml">
+      <configuration name="Performance Horizon Test Exercise should validate various actions on demoqa: PerformanceHorizon" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="Run_spec_'demoqa_spec'__PerformanceHorizon - 2017.01.14 at 13h 52m 33s.xml">
       <configuration name="Run spec 'demoqa_spec': PerformanceHorizon" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15604000" />
+    <option name="totallyTimeSpent" value="16867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="24" width="1325" height="744" extended-state="6" />
@@ -686,7 +683,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31825274" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31825274" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937598" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -734,30 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-test/pages/registration_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-test/pages/home_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-test/pages/tab_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-test/browser/browser_manager.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -782,10 +755,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web-test/pages/registration_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-test/pages/tab_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-test/pages/home_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web-test/tests/demoqa_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="44">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>

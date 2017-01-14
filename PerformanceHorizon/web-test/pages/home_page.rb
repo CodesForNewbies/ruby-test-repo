@@ -9,6 +9,7 @@ class HomePage < BasePage
 
   def select_tab_one()
     @driver.find_element(:id => "ui-id-1").click
+
   end
 
   def select_tab_two()
@@ -30,6 +31,10 @@ class HomePage < BasePage
     tab_5_element.click
     tab_5_title =tab_5_element.text
     return tab_5_title
+  end
+
+  def visit_tabPage
+    return TabPage.new(driver)
   end
 
   def open_demo

@@ -1,4 +1,5 @@
 require_relative '../../web-test/pages/base_page'
+require_relative '../../web-test/pages/registration_page'
 
 class TabPage < BasePage
 
@@ -13,6 +14,7 @@ class TabPage < BasePage
 
   def visit_registration_page
     driver.find_element(:id => "menu-item-374").click
+    return RegistrationPage.new(driver)
   end
 
 

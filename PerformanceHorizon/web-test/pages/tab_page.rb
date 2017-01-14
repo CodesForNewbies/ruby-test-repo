@@ -7,7 +7,7 @@ class TabPage < BasePage
     super(driver)
   end
 
-  def visit_tabs_page
+  def open_tab
     tab_element = driver.find_element(:id => "menu-item-153")
     tab_element.click
   end

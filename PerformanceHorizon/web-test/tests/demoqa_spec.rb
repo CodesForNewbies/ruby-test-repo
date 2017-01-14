@@ -36,12 +36,8 @@ describe 'Performance Horizon Test Exercise' do
     tab_3_title = homePage.select_tab_three
     homePage.select_tab_four
     tab_5_title = homePage.select_tab_five
-    # Part Two
-    tabPage = homePage.visit_tabPage
-    homePage.open_demo
-    tabPage.visit_tabs_page
-    # Part Three
-    # Select Registration Form
+    tabPage = homePage.open_demo
+    tabPage.open_tab
     registration = tabPage.visit_registration_page
     registration.enter_first_name(tab_3_title)
     registration.enter_last_name(tab_5_title)

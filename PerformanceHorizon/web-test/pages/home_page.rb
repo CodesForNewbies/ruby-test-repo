@@ -33,13 +33,12 @@ class HomePage < BasePage
     return tab_5_title
   end
 
-  def visit_tabPage
-    return TabPage.new(driver)
-  end
+
 
   def open_demo
     driver.find_element(:id => "menu-item-66").click
     sleep(1)
+    return TabPage.new(driver)
   end
 
 end

@@ -4,8 +4,6 @@ class BrowserManager
 
 
 
-
-
   def set_up(machine)
     system_path = CustomPath.new().get_file_path
     if(machine.include?("windows"))

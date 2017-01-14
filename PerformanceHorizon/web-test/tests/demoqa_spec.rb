@@ -9,14 +9,14 @@ require_relative '../../web-test/pages/tab_page'
 
 describe 'Performance Horizon Test Exercise' do
 
-  browserMgr = BrowserManager.new()
+  browse_mgr = BrowserManager.new()
 
    before(:each) do
-     @driver = browserMgr.set_up("linux")
+     @driver = browse_mgr.set_up("linux")
    end
 
    after(:each) do
-     browserMgr.tear_down
+     browse_mgr.tear_down
    end
 
   it 'should validate various actions on demoqa' do
@@ -29,7 +29,6 @@ describe 'Performance Horizon Test Exercise' do
 
 
     #Actaul Test
-    basePage = BasePage.new(@driver)
     homePage = HomePage.new(@driver)
     # Part One
     homePage.select_tab_one
